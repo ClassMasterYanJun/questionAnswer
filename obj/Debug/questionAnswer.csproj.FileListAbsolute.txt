@@ -1,0 +1,11 @@
+C:\Users\Studio\source\repos\questionAnswer\bin\Debug\questionAnswer.exe.config
+C:\Users\Studio\source\repos\questionAnswer\bin\Debug\questionAnswer.exe
+C:\Users\Studio\source\repos\questionAnswer\bin\Debug\questionAnswer.pdb
+C:\Users\Studio\source\repos\questionAnswer\obj\Debug\questionAnswer.csprojAssemblyReference.cache
+C:\Users\Studio\source\repos\questionAnswer\obj\Debug\questionAnswer.Form1.resources
+C:\Users\Studio\source\repos\questionAnswer\obj\Debug\questionAnswer.Properties.Resources.resources
+C:\Users\Studio\source\repos\questionAnswer\obj\Debug\questionAnswer.csproj.GenerateResource.cache
+C:\Users\Studio\source\repos\questionAnswer\obj\Debug\questionAnswer.csproj.CoreCompileInputs.cache
+C:\Users\Studio\source\repos\questionAnswer\obj\Debug\questionAnswer.exe
+C:\Users\Studio\source\repos\questionAnswer\obj\Debug\questionAnswer.pdb
+C:\Users\Studio\source\repos\questionAnswer\obj\Debug\questionAnswer.Form2.resources
